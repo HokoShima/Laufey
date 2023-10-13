@@ -28,3 +28,6 @@ td{
 h1{
     font-family: 'Poor Story', cursive;
 }
+img{
+    transform: translateY(-10px);
+}
