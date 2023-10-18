@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Concert+One&family=Corinthia:wght@700&family=Poor+Story&family=Shadows+Into+Light&display=swap');
+
+td{
+    font-family: 'Shadows Into Light', cursive;
+    color: #00FF7F;
+}
+h1{
+    font-family: 'Poor Story', cursive;
+}
+.s:hover{
+    transform: scale(1.1);
+    transition: 2s;
+}
